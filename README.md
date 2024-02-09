@@ -39,6 +39,7 @@
 1. [Calculator](https://github.com/abdelrahmanrgab/calculator-using-javafx)
    - **Description:** Implemented a calculator using JavaFX. This project demonstrates proficiency in Java and JavaFX, providing a graphical user interface for basic arithmetic calculations. The application includes a user-friendly interface with standard calculator functions.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanrgab&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanrgab&theme=vision-friendly-dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelrahmanrgab&show_icons=true&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanrgab&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
