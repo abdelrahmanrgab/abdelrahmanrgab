@@ -4,6 +4,9 @@
  ![Coding Cover](https://raw.githubusercontent.com/abdelrahmanrgab/abdelrahmanrgab/master/images/profile-img.png)
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdelrahmanrgab&abbreviated=true" alt="Profile Views Counter">
+</p>
 
 I am an undergraduate CSE student at Zagazig University .
 
