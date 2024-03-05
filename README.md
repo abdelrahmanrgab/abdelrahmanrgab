@@ -7,11 +7,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdelrahmanrgab&abbreviated=true" alt="Profile Views Counter">
 </p>
-
-I am an undergraduate CSE student at Zagazig University .
-
-## I'm a passionate software developer
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&random=false&width=435&lines=I+am+an+undergraduate+CSE+student+at+Zagazig+University+.;I'm+a+passionate+software+developer" alt="Typing SVG" /></a></p>
 <div align="center">
 
 ### Languages and Tools:
